@@ -1,6 +1,6 @@
 #terraform excludes
 
 .terraform
-*.terrafrom.lock.hcl
+*.terraform.lock.hcl
 *.tfstate
 *.tfstate.backup
